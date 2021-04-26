@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Membership
+permalink: /membership/
 ---
 Running and developing a fleet of repeaters can be an expensive business. The Cambridgeshire Repeater Group is a voluntary organisation that relies solely on the support of its members. Ordinary membership starts at £10 per annum, or a whole family can join for £15 per annum.
 
