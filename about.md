@@ -1,8 +1,8 @@
 ---
 layout: default
 title: About the CRG
-permalink: /about/
 ---
+
 The Cambridgeshire Repeater Group (CRG) provides a number of voice repeaters and one television repeater. These repeaters service users in the Cambridgeshire, Bedfordshire, North East Hertfordshire, North West Essex, West Suffolk and South West Norfolk areas. The group's repeaters are currently installed on former Philips towers at Madingley and Barkway, both are now owned and maintained by Cellnex, and on a tower near Washingley, just west of Peterborough.
 
 The group was formed out of the PYE Telecommunications Radio Club, to allow non-PYE employees a chance to join, and add their skills to the group.
