@@ -13,7 +13,7 @@ Trader setup starts at 7:30am.
 
 Opening time for visitors is 09:30am, entrance is £2. Free entrance to Cambridgeshire Repeater Group members. No other discounts or concessions.
 
-Talk=in will be provided on S22 – 145.550 and via GB3PI and GB3PY.
+Talk-in will be provided on 145.550MHz and via GB3PI and GB3PY.
 
 The RSGB will be joining us with their ever-popular book stall. Bring your old gear for the Bring & Buy (run by the Cambridge & District Amateur Radio Club) and hopefully make some money to buy something new!  Burger van should be serving from 08:00 or so.
 
