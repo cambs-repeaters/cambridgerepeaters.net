@@ -3,6 +3,7 @@
 }
 .navbar-brand {
 	color: #007DC3 !important;
+	font-size: min(100%, 3vw);
 }
 #home-jumbotron {
 	background-image: url('/assets/mb7um-artistic.jpg');
@@ -12,4 +13,5 @@
 #home-jumbotron h1 {
 	background-color: rgba(255, 255, 255,0.8);
 	padding: 5px;
+	font-size: min(3.5rem,10vw);
 }
