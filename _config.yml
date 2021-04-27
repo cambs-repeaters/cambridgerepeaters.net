@@ -28,6 +28,11 @@ defaults:
       path: "" # everything
     values:
       layout: "default"
+  -
+    scope:
+      type: "repeaters"
+    values:
+      layout: "repeater"
 
 collections:
   repeaters:

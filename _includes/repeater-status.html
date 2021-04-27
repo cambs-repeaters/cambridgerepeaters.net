@@ -1,4 +1,4 @@
-<table class="table">
+<table class="table table-responsive">
   <thead class="thead-light">
     <tr>
       <th scope="col">Callsign</th>
@@ -12,17 +12,20 @@
     </tr>
   </thead>
   <tbody>
-    {% for repeater in site.repeaters %}
-      <tr>
-        <th scope="row">{{ repeater.callsign }}</th>
-        <td>{{ repeater.band }}</td>
-        <td>{{ repeater.mode }}</td>
-        <td>{{ repeater.location }}</td>
-        <td>{{ repeater.tx }}</td>
-        <td>{{ repeater.rx }}</td>
-        <td>{{ repeater.access }}</td>
-        <td>{{ repeater.status }}</td>
-      </tr>
+    {% assign repeaters = site.repeaters | group_by: "location" | sort: "callsign" %}
+    {% for location in repeaters %}
+      {% for repeater in location.items %}
+        <tr>
+          <th scope="row"><a href="/repeaters/{{ repeater.callsign }}">{{ repeater.callsign }}</a></th>
+          <td>{{ repeater.band }}</td>
+          <td>{{ repeater.mode }}</td>
+          <td>{{ repeater.location }}</td>
+          <td>{{ repeater.tx }}</td>
+          <td>{{ repeater.rx }}</td>
+          <td>{{ repeater.access }}</td>
+          <td>{{ repeater.status }}</td>
+        </tr>
+      {% endfor %}
     {% endfor %}
   </tbody>
 </table>

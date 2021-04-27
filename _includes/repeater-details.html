@@ -1,0 +1,16 @@
+<table class="table table-sm table-striped">
+  <tbody>
+    {% if page.location %}<tr><th scope="row">Location</th><td>{{ page.location }}</td></tr>{% endif %}
+    {% if page.locator %}<tr><th scope="row">Locator</th><td>{{ page.locator }}</td></tr>{% endif %}
+	{% if page.rx %}<tr><th scope="row">Input frequency</th><td>{{ page.rx }}</td></tr>{% endif %}
+	{% if page.tx %}<tr><th scope="row">Output frequency</th><td>{{ page.tx }}</td></tr>{% endif %}
+	{% if page.mode %}<tr><th scope="row">Mode</th><td>{{ page.mode }}</td></tr>{% endif %}
+	{% if page.polarisation %}<tr><th scope="row">Polarisation</th><td>{{ page.polarisation }}</td></tr>{% endif %}
+	{% if page.agl %}<tr><th scope="row">Height above ground</th><td>{{ page.agl }}</td></tr>{% endif %}
+	{% if page.asl %}<tr><th scope="row">Height above sea level</th><td>{{ page.asl }}</td></tr>{% endif %}
+	{% if page.access %}<tr><th scope="row">Access method</th><td>{{ page.access }}</td></tr>{% endif %}
+	{% if page.timeout %}<tr><th scope="row">Timeout</th><td>{{ page.timeout }}</td></tr>{% endif %}
+	{% if page.antenna %}<tr><th scope="row">Antenna</th><td>{{ page.antenna }}</td></tr>{% endif %}
+	{% if page.power %}<tr><th scope="row">Power (ERP)</th><td>{{ page.power }}</td></tr>{% endif %}
+  </tbody>
+</table>
