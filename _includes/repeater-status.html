@@ -16,7 +16,7 @@
     {% for location in repeaters %}
       {% for repeater in location.items %}
         <tr>
-          <th scope="row"><a href="/repeaters/{{ repeater.callsign }}">{{ repeater.callsign }}</a></th>
+          <th scope="row"><a href="/repeaters/{{ repeater.callsign | downcase }}">{{ repeater.callsign }}</a></th>
           <td>{{ repeater.band }}</td>
           <td>{{ repeater.mode }}</td>
           <td>{{ repeater.location }}</td>
