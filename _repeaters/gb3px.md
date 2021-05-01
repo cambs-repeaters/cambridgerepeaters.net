@@ -4,9 +4,20 @@ callsign: GB3PX
 band: 6m
 mode: FM
 location: Barkway
+locator: IO92xa
 tx: "50.780"
 rx: "51.280"
 access: 77.0Hz
+polarisation: Vertical
 status: Not operational
+agl: 37m
+asl: 210m
+antenna: Diamond V-2000
+power: 25W
+findoutmore:
+  - title: "GB3PX on UKRepeater.net"
+    link: "https://ukrepeater.net/my_repeater.php?id=938"
 ---
-GB3PX is a 6m FM voice repeater
+GB3PX is a 6m FM voice repeater, located near Barkway, just south of Royston.
+
+[![Coverage map for GB3PX](/assets/coverage/gb3px.jpg)](https://ukrepeater.net/repeatermaps/gb3px.jpg){:class="coverage-map"}
