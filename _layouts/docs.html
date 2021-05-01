@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<div class="card float-lg-right find-out-more-card">
+  <div class="card-body">
+    <h5 class="card-title">Documentation</h5>
+    <ul>
+        {% for doc in site.docs %}
+            <li><a href="{{doc.url}}">{{doc.title}}</a></li>
+        {% endfor %}
+    </ul>
+  </div>
+</div>
+
+{{ content }}

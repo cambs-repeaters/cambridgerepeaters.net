@@ -37,3 +37,5 @@ defaults:
 collections:
   repeaters:
     output: true
+  docs:
+    output: true
