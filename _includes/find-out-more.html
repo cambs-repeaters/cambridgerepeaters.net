@@ -1,0 +1,12 @@
+{% if page.findoutmore %}
+    <div class="card float-lg-right find-out-more-card">
+      <div class="card-body">
+        <h5 class="card-title">Find out more...</h5>
+        <ul>
+            {% for link in page.findoutmore %}
+                <li><a href="{{link.link}}">{{link.title}}</a></li>
+            {% endfor %}
+        </ul>
+      </div>
+    </div>
+{% endif %}
