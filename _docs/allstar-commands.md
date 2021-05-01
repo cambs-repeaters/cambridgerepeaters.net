@@ -15,4 +15,4 @@ Here's some common commands you can send using DTMF tones:
 - \*55: Connect GB3PE to GB3PI
 - \*57: Connect to GB3NZ (Norwich)
 - \*58: Connect to GB3EI (North Uist, Scotland)
-- \*76: Disconnect all links
+- \*73: Disconnect all links
