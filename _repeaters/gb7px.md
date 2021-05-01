@@ -24,3 +24,5 @@ findoutmore:
 GB7PX is a 70cm multi-mode digital voice repeater, located near Barkway, just south of Royston. 
 
 It supports DMR (Phoenix and Brandmeister networks), D-STAR, NXDN and P25 digital voice modes.
+
+It is based on the MMDVM digital voice modem.
