@@ -21,4 +21,4 @@ findoutmore:
 ---
 GB7PT is a 70cm Yaesu System Fusion repeater, located near Barkway, just south of Royston.
 
-It is based on the MMDVM digital voice modem.
+It is based on the MMDVM digital voice modem, but locked to Yaesu System Fusion mode only.
