@@ -15,5 +15,14 @@ asl: 210m
 timeout: 2 minutes
 antenna: 2 x 2-ele Yagi, due North
 power: 25W
+findoutmore:
+  - title: "AllStar commands"
+    link: "/docs/allstar-commands"
+  - title: "GB3PI on UKRepeater.net"
+    link: "https://ukrepeater.net/my_repeater.php?id=928"
 ---
-GB3PI is a 2m FM voice repeater
+GB3PI is a 2m FM voice repeater, located near Barkway, just south of Royston.
+
+It features AllStar internet linking, and will reconnect to GB3PI when idle.
+
+[![Coverage map for GB3PI](/assets/coverage/gb3pi.jpg)](https://ukrepeater.net/repeatermaps/gb3pi.jpg){:class="coverage-map"}
