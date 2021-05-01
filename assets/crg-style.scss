@@ -1,3 +1,5 @@
+---
+---
 .navbar-brand img {
 	width: 4em;
 }
@@ -14,4 +16,10 @@
 	background-color: rgba(255, 255, 255,0.8);
 	padding: 5px;
 	font-size: min(3.5rem,10vw);
+}
+.coverage-map img {
+	max-width: 100%;
+}
+.find-out-more-card {
+	margin-bottom: 1em;
 }
