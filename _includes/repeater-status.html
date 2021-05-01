@@ -12,9 +12,9 @@
     </tr>
   </thead>
   <tbody>
-    {% assign repeaters = site.repeaters | group_by: "location" | sort: "callsign" %}
+    {% assign repeaters = site.repeaters | group_by: "location" | sort: "location" %}
     {% for location in repeaters %}
-      {% for repeater in location.items %}
+      {% for repeater in location.items | sort: "callsign" %}
         <tr>
           <th scope="row"><a href="/repeaters/{{ repeater.callsign | downcase }}">{{ repeater.callsign }}</a></th>
           <td>{{ repeater.band }}</td>
