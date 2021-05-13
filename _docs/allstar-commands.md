@@ -13,6 +13,7 @@ Here's some common commands you can send using DTMF tones:
 - \*52: Parrot (any audio in the same transmission as you send \*52 will be played back to you)
 - \*53: Connect to Hubnet
 - \*55: Connect GB3PE to GB3PI
+- \*56: Connect to GB3PX
 - \*57: Connect to GB3NZ (Norwich)
 - \*58: Connect to GB3EI (North Uist, Scotland)
 - \*73: Disconnect all links
