@@ -9,7 +9,7 @@ tx: "430.900"
 rx: "438.500"
 access: 77.0Hz
 polarisation: Vertical
-status: Operational - reduced power
+status: Off-air
 asl: 68m
 antenna: Colinear
 power: 10W
@@ -19,6 +19,6 @@ findoutmore:
 ---
 GB3PY is a 70cm FM voice repeater, located near Madingley, west of Cambridge.
 
-It is currently operating at reduced power (\~1W) pending repair.
+It is currently off-air due to a transmitter PA failure.
 
 [![Coverage map for GB3PY](/assets/coverage/gb3py.jpg)](https://ukrepeater.net/repeatermaps/gb3py.jpg){:class="coverage-map"}
