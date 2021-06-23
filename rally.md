@@ -41,6 +41,6 @@ We appreciate you pre-booking your spaces, so that we can ensure there are suffi
 
 #### Booking
 
-To book a space, please click here to download the PDF booking form, complete and print and post with your payment.
+To book a space, please click here to download the [booking form](/assets/rally-booking-2021.pdf), complete and print and post with your payment.
 
 Contact Lawrence M0LCM, 07941 972724, rally2021@cambridgerepeaters.net
