@@ -18,7 +18,7 @@ findoutmore:
   - title: "DMR Guide UK"
     link: "https://www.dmrguide.uk/"
   - title: "DMR-UK.net"
-    link: "http://www.dmr-uk.net/"
+    link: "https://www.dmr-uk.net/"
   - title: "GB7PE on UKRepeater.net"
     link: "https://ukrepeater.net/my_repeater.php?id=4068"
 ---

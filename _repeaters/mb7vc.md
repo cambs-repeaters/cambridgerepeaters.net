@@ -8,5 +8,8 @@ tx: "144.800"
 rx: "144.800"
 access: 
 status: Operational
+findoutmore:
+  - title: "MB7VC on UKRepeater.net"
+    link: "https://ukrepeater.net/my_packet.php?id=4274"
 ---
 MB7UC is a 2m APRS digipeater and iGate

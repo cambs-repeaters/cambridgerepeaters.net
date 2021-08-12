@@ -20,6 +20,8 @@ findoutmore:
     link: "/docs/allstar-commands"
   - title: "GB3PI on UKRepeater.net"
     link: "https://ukrepeater.net/my_repeater.php?id=928"
+  - title: "GB3PI on AllStarLink"
+    link: "https://stats.allstarlink.org/stats/50683"
 ---
 GB3PI is a 2m FM voice repeater, located near Barkway, just south of Royston.
 
