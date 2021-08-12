@@ -17,3 +17,5 @@ findoutmore:
     link: "https://ukrepeater.net/my_repeater.php?id=934"
 ---
 GB3PS is a 23cm FM voice repeater, located near Barkway, just south of Royston.
+
+[![Coverage map for GB3PS](/assets/coverage/gb3ps.jpg)](https://ukrepeater.net/repeatermaps/gb3ps.jpg){:class="coverage-map"}

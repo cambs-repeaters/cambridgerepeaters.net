@@ -9,4 +9,4 @@ rx: "144.800"
 access: 
 status: Operational
 ---
-MB7UM is a 2m APRS digipeater and iGate
+MB7UM is a 2m APRS digipeater and iGate, located near Madingley, west of Cambridge.
