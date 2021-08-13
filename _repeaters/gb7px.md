@@ -17,9 +17,11 @@ findoutmore:
   - title: "DMR Guide UK"
     link: "https://www.dmrguide.uk/"
   - title: "DMR-UK.net"
-    link: "http://www.dmr-uk.net/"
+    link: "https://www.dmr-uk.net/"
   - title: "GB7PX on UKRepeater.net"
     link: "https://ukrepeater.net/my_repeater.php?id=4070"
+  - title: "GB7PX on BrandMeister"
+    link: "https://brandmeister.network/?page=repeater&id=235284"
 ---
 GB7PX is a 70cm multi-mode digital voice repeater, located near Barkway, just south of Royston. 
 

@@ -19,6 +19,8 @@ findoutmore:
     link: "/docs/allstar-commands"
   - title: "GB3PX on UKRepeater.net"
     link: "https://ukrepeater.net/my_repeater.php?id=938"
+  - title: "GB3PX on AllStarLink"
+    link: "https://stats.allstarlink.org/stats/50682"
 ---
 GB3PX is a 6m FM voice repeater, located near Barkway, just south of Royston.
 

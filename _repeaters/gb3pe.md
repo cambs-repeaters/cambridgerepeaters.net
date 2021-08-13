@@ -19,6 +19,8 @@ findoutmore:
     link: "/docs/allstar-commands"
   - title: "GB3PE on UKRepeater.net"
     link: "https://ukrepeater.net/my_repeater.php?id=4069"
+  - title: "GB3PE on AllStarLink"
+    link: "https://stats.allstarlink.org/stats/50681"
 ---
 GB3PE is a 2m FM voice repeater, located near Washingley, just west of Peterborough.
 
