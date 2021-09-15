@@ -3,7 +3,7 @@ layout: default
 title: CRG Rally 2021
 permalink: /events/rally/
 ---
-The 2021 Cambridgeshire Repeater Group Rally is planned for Sunday 19th September (subject to Government COVID restrictions).
+The 2021 Cambridgeshire Repeater Group Rally is planned for Sunday 19th September.
 
 The rally will be held at Foxton Village Hall, Hardman Road, Foxton, Cambridge, Cambs, CB22 6RN.
 
