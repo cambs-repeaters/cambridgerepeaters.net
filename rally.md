@@ -15,7 +15,9 @@ Opening time for visitors is 09:30am, entrance is £2. Free entrance to Cambridg
 
 Talk-in will be provided on 145.550MHz and via GB3PI and GB3PY.
 
-The RSGB will be joining us with their ever-popular book stall. Bring your old gear for the Bring & Buy (run by the Cambridge & District Amateur Radio Club) and hopefully make some money to buy something new!  Burger van should be serving from 08:00 or so.
+The RSGB will be joining us with their ever-popular book stall. Burger van should be serving from 08:00 or so.
+
+*Sorry, there will be no Bring & Buy this year. Car boot spaces are available from £6.*
 
 ### Trader fees
 
