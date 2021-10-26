@@ -13,7 +13,7 @@ status: Operational
 agl: 27m
 asl: 64m
 antenna: Diamond V-2000
-Power: 25W
+power: 25W
 findoutmore:
   - title: "DMR Guide UK"
     link: "https://www.dmrguide.uk/"

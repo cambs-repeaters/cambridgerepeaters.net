@@ -12,4 +12,4 @@ findoutmore:
   - title: "MB7VC on UKRepeater.net"
     link: "https://ukrepeater.net/my_packet.php?id=4274"
 ---
-MB7UC is a 2m APRS digipeater and iGate
+MB7UC is a 2m APRS digipeater and iGate, located near Washingley, just west of Peterborough.

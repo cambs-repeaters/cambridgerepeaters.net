@@ -2,7 +2,7 @@
 title: GB7PX
 callsign: GB7PX
 band: 70cm
-mode: DMR / D-STAR
+mode: DMR/D-STAR
 location: Barkway
 locator: IO92xa
 tx: "439.775"
@@ -23,8 +23,8 @@ findoutmore:
   - title: "GB7PX on BrandMeister"
     link: "https://brandmeister.network/?page=repeater&id=235284"
 ---
-GB7PX is a 70cm multi-mode digital voice repeater, located near Barkway, just south of Royston. 
+GB7PX is a 70cm multi-mode digital voice repeater, located near Barkway, just south of Royston.
 
-It supports DMR (Phoenix and Brandmeister networks), D-STAR, NXDN and P25 digital voice modes.
+It supports DMR (Phoenix UK and BrandMeister networks), D-STAR, NXDN and P25 digital voice modes.
 
 It is based on the MMDVM digital voice modem.

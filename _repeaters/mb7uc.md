@@ -12,4 +12,4 @@ findoutmore:
   - title: "MB7UC on UKRepeater.net"
     link: "https://ukrepeater.net/my_packet.php?id=2156"
 ---
-MB7UC is a 2m APRS digipeater and iGate
+MB7UC is a 2m APRS digipeater and iGate, located near Barkway, just south of Royston.

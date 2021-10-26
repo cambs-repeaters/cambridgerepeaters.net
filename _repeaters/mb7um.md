@@ -12,4 +12,4 @@ findoutmore:
   - title: "MB7UM on UKRepeater.net"
     link: "https://ukrepeater.net/my_packet.php?id=2155"
 ---
-MB7UM is a 2m APRS digipeater and iGate
+MB7UM is a 2m APRS digipeater and iGate, located near Madingley, west of Cambridge.
