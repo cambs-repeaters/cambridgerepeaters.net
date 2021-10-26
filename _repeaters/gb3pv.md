@@ -9,7 +9,7 @@ tx: "1316.000"
 rx: "1249.000"
 access: 1Msps 7/8 FEC
 polarisation: Horizontal
-status: Not operational
+status: Operational
 asl: 68m
 antenna: Alford slot
 findoutmore:
