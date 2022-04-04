@@ -9,7 +9,7 @@ tx: "439.775"
 rx: "430.775"
 access: CC10
 polarisation: Vertical
-status: Operational
+status: Off-air
 agl: 52m
 asl: 210m
 power: 25W
@@ -23,6 +23,8 @@ findoutmore:
   - title: "GB7PX on BrandMeister"
     link: "https://brandmeister.network/?page=repeater&id=235284"
 ---
+GB7PX is temporarily off-air pending a site visit for investigation.
+
 GB7PX is a 70cm multi-mode digital voice repeater, located near Barkway, just south of Royston. 
 
 It supports DMR (Phoenix and Brandmeister networks), D-STAR, NXDN and P25 digital voice modes.
