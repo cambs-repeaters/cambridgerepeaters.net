@@ -11,7 +11,7 @@ The rally will be held at Foxton Village Hall, Hardman Road, Foxton, Cambridge, 
 
 Trader setup starts at 7:30am.
 
-Opening time for visitors is 09:30am, entrance is £2. Free entrance to Cambridgeshire Repeater Group members. No other discounts or concessions.
+Opening time for visitors is 09:30am, suggested donation £3. Free entrance to Cambridgeshire Repeater Group members.
 
 Talk-in will be provided on 145.550MHz and via GB3PI and GB3PY.
 
