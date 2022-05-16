@@ -9,7 +9,7 @@ tx: "439.775"
 rx: "430.775"
 access: CC10
 polarisation: Vertical
-status: Off-air
+status: Operational
 agl: 52m
 asl: 210m
 power: 25W
