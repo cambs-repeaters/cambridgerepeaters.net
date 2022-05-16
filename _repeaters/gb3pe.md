@@ -9,7 +9,7 @@ tx: "145.675"
 rx: "145.075"
 access: 94.8Hz
 polarisation: Vertical
-status: Operational (no internet linking)
+status: Operational
 agl: 27m
 asl: 64m
 antenna: Diamond V-2000
