@@ -7,7 +7,7 @@ location: Madingley
 locator: JO02af
 tx: "1316.000"
 rx: "1249.000"
-access: 1Msps 7/8 FEC
+access: 1Msps 2/3 FEC
 polarisation: Horizontal
 status: Operational
 asl: 68m
