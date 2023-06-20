@@ -8,7 +8,7 @@ The Cambridgeshire Repeater Group (CRG) provides a number of voice repeaters and
 
 The group was formed out of the PYE Telecommunications Radio Club, to allow non-PYE employees a chance to join, and add their skills to the group.
 
-The very first radio telephone voice talk-through repeater was developed by the radio amateurs at PYE, and became licensed as GB3PI in 1971. In May 1972 it was moved from the PYE factory site to their aerial mast at Barkway to provide a much wider coverage area for mobile and portable users.
+The very first radio telephone voice talk-through repeater was developed by the radio amateurs at PYE, and became licensed as GB3PI in 1972. In April 1973 it was moved from the PYE factory site to their aerial mast at Barkway to provide a much wider coverage area for mobile and portable users.
 
 The group developed the first UHF (433MHz) voice repeater, the first amateur television repeater (1300MHz), the first SHF (1297MHz) voice repeater, and the first high speed (as it was then) 9600baud data repeater (439MHz).
 
