@@ -3,7 +3,7 @@ layout: default
 title: CRG Rally
 permalink: /events/rally/
 ---
-The 2023 Cambridgeshire Repeater Group Rally will be held on Sunday 16th April, 2023.
+The 2024 Cambridgeshire Repeater Group Rally will be held on Sunday 21st April, 2024.
 
 The rally is held annually at Foxton Village Hall, Hardman Road, Foxton, Cambridge, Cambs, CB22 6RN.
 
@@ -41,9 +41,8 @@ Additional space per vehicle will be charged at £4 per 3 meter space.
 
 We appreciate you pre-booking your spaces, so that we can ensure there are sufficient pitches available for all traders.
 
-<!-- #### Booking
+#### Booking
 
-To book a space, please click here to download the [booking form](/assets/2022-crg-rally-booking-form.doc), complete and print and post with your payment.
+To book a space, please complete our [booking form](https://docs.google.com/forms/d/1MBvLhA59NHlGS5FiOJ9rIXO7zLIfS4sD2ikAEL8aKR0/). We will collect payment on the day.
 
-Contact Lawrence M0LCM, 07941 972724
- -->
+For more information, contact Lawrence M0LCM, 07941 972724, rally2024@cambridgerepeaters.net
