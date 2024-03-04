@@ -9,7 +9,7 @@ tx: "50.780"
 rx: "51.780"
 access: 77.0Hz
 polarisation: Vertical
-status: Non-operational
+status: Operational (new frequency)
 agl: 37m
 asl: 210m
 antenna: Diamond V-2000
