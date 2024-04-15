@@ -3,7 +3,7 @@ layout: default
 title: CRG Rally
 permalink: /events/rally/
 ---
-The 2024 Cambridgeshire Repeater Group Rally will be held on Sunday 14th July, 2024. (*Change of date - subject to final confirmation*)
+The 2024 Cambridgeshire Repeater Group Rally will be held on Sunday **14th July**, 2024. (**Change of date - subject to final confirmation**)
 
 The rally is held annually at Foxton Village Hall, Hardman Road, Foxton, Cambridge, Cambs, CB22 6RN.
 
