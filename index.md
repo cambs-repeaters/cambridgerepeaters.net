@@ -3,6 +3,8 @@ layout: default
 title: Cambridgeshire Repeater Group
 ---
 
+*CRG Rally 2024: postponed due to poor weather. Provisionally moved to 14th July 2024*
+
 The Cambridgeshire Repeater Group (CRG) owns and operates amateur radio analogue voice repeaters around Cambridgeshire, in the East of England.
 
 Our repeaters are based at three sites: Barkway, near Royston; Madingley, just west of Cambridge; and Washingley, near Peterborough. These repeaters serve users in the Cambridgeshire, Bedfordshire, North East Hertfordshire, North West Essex, West Suffolk and South West Norfolk areas.
