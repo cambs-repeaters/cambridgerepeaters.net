@@ -9,7 +9,7 @@ tx: "439.7625"
 rx: "430.7625"
 access: DV
 polarisation: Vertical
-status: Operational
+status: Non-operational (investigating)
 agl: 42m
 asl: 210m
 power: 25W
