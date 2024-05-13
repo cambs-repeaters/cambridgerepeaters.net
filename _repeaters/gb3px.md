@@ -9,7 +9,7 @@ tx: "50.780"
 rx: "51.780"
 access: 77.0Hz
 polarisation: Vertical
-status: Non-operational (investigating)
+status: Operational (monitoring)
 agl: 37m
 asl: 210m
 antenna: Diamond V-2000
@@ -27,5 +27,7 @@ GB3PX is a 6m FM voice repeater, located near Barkway, just south of Royston.
 It features AllStar internet linking, and will reconnect to GB3PI when idle.
 
 In February 2024, GB3PX's input frequency changed from 51.280 to 51.780MHz to improve performance.
+
+2024-05-13: We are currently monitoring an issue with false squelch triggering on receive.
 
 [![Coverage map for GB3PX](/assets/coverage/gb3px.jpg)](https://ukrepeater.net/repeatermaps/gb3px.jpg){:class="coverage-map"}
