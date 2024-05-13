@@ -9,7 +9,7 @@ tx: "145.750"
 rx: "145.150"
 access: 77.0Hz
 polarisation: Vertical
-status: Operational
+status: Operational (reduced TX power)
 agl: 58m
 asl: 210m
 timeout: 2 minutes
