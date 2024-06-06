@@ -7,11 +7,11 @@ location: Barkway
 tx: "144.800"
 rx: "144.800"
 access: 
-status: Non-operational
+status: Operational
 findoutmore:
   - title: "MB7UC on UKRepeater.net"
     link: "https://ukrepeater.net/my_packet.php?id=2156"
 ---
 MB7UC is a 2m APRS digipeater and iGate
 
-2024-05-13: MB7UC is temporarily off-air pending reconfiguration.
+2024-06-06: MB7UC is back on air following a cabin move and reconfiguration.
