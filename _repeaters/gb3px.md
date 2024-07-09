@@ -9,7 +9,7 @@ tx: "50.780"
 rx: "51.780"
 access: 77.0Hz
 polarisation: Vertical
-status: Operational (TX only)
+status: Operational
 agl: 37m
 asl: 210m
 antenna: Diamond V-2000
@@ -28,6 +28,6 @@ It features AllStar internet linking, and will reconnect to GB3PI when idle.
 
 In February 2024, GB3PX's input frequency changed from 51.280 to 51.780MHz to improve performance.
 
-2024-05-13: Due to a receiver fault, GB3PX is currently operating in TX-only mode (beacon and AllStarLink audio)
+2024-07-09: GB3PX returned to service following receiver fault. Reports welcome.
 
 [![Coverage map for GB3PX](/assets/coverage/gb3px.jpg)](https://ukrepeater.net/repeatermaps/gb3px.jpg){:class="coverage-map"}
