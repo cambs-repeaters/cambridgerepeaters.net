@@ -3,7 +3,9 @@ layout: default
 title: CRG Rally
 permalink: /events/rally/
 ---
-The 2025 Cambridgeshire Repeater Group Rally will be held on Sunday 27th April, 2025.
+The 2025 Cambridgeshire Repeater Group Rally was held on Sunday 27th April, 2025 - thanks everyone!
+
+2026 details will be announced later this year.
 
 The rally is held annually at Foxton Village Hall, Hardman Road, Foxton, Cambridge, Cambs, CB22 6RN.
 
@@ -41,6 +43,4 @@ We appreciate you pre-booking your spaces, so that we can ensure there are suffi
 
 #### Booking
 
-To book a space, please complete our [booking form](https://docs.google.com/forms/d/1MBvLhA59NHlGS5FiOJ9rIXO7zLIfS4sD2ikAEL8aKR0/). We will collect payment on the day.
-
-For more information, contact Lawrence M0LCM, 07941 972724, rally2025@cambridgerepeaters.net
+2026 bookings will be open later in 2025.
