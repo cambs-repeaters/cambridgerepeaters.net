@@ -12,6 +12,7 @@
 	{% if page.timeout %}<tr><th scope="row">Timeout</th><td>{{ page.timeout }}</td></tr>{% endif %}
 	{% if page.antenna %}<tr><th scope="row">Antenna</th><td>{{ page.antenna }}</td></tr>{% endif %}
 	{% if page.power %}<tr><th scope="row">Power (ERP)</th><td>{{ page.power }}</td></tr>{% endif %}
+	{% if page.allstar %}<tr><th scope="row">AllStarLink</th><td><a href="http://stats.allstarlink.org/stats/{{ page.allstar }}">{{ page.allstar }}</a></td></tr>{% endif %}
 	{% if page.status %}<tr><th scope="row">Status</th><td>{{ page.status }}</td></tr>{% endif %}
   </tbody>
 </table>

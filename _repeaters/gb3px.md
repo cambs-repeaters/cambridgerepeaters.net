@@ -14,6 +14,7 @@ agl: 37m
 asl: 210m
 antenna: Diamond V-2000
 power: 25W
+allstar: 50682
 findoutmore:
   - title: "AllStar commands"
     link: "/docs/allstar-commands"

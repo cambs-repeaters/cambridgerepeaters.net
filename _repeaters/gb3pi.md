@@ -15,6 +15,7 @@ asl: 210m
 timeout: 2 minutes
 antenna: 2 x 2-ele Yagi, due North
 power: 25W
+allstar: 50683
 findoutmore:
   - title: "AllStar commands"
     link: "/docs/allstar-commands"

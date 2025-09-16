@@ -12,6 +12,7 @@ agl: 52m
 asl: 210m
 power: 14W
 status: Maintenance
+allstar: 50685
 findoutmore:
   - title: "GB3PS on UKRepeater.net"
     link: "https://ukrepeater.net/my_repeater.php?id=934"
