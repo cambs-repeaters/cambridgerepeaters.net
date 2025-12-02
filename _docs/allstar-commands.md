@@ -23,5 +23,5 @@ Here's some common commands you can send using DTMF tones:
 - \*59: Connect to the CRG_HUB
 - \*73: Disconnect all links
 
-Due to an diagnosed interference issue, please only connect GB3PX if you are going to use it, and then disconnect as soon as you're finished, thank you.
+Due to an undiagnosed interference issue, please only connect GB3PX if you are going to use it, and then disconnect as soon as you're finished, thank you.
 Currently, GB3PS (50685) cannot be connected to FROM GB3PI.
