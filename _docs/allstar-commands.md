@@ -9,7 +9,7 @@ Several CRG FM voice repeaters are connected to the AllStarLink network.
 
 This allows us to link repeaters around the area, and allow access to wider-area reflectors.
 
-Here's some common commands you can send using DTMF tones:
+Here's some commands on GB3PI you can send using DTMF tones:
 - \*51: Plays time and voice ID
 - \*52: Parrot (any audio in the same transmission as you send \*52 will be played back to you)
 - \*531: Connect to W1XM Cambridge MA US Without disconnecting
@@ -25,3 +25,4 @@ Here's some common commands you can send using DTMF tones:
 
 Due to an undiagnosed interference issue, please only connect GB3PX if you are going to use it, and then disconnect as soon as you're finished, thank you.
 Currently, GB3PS (50685) cannot be connected to FROM GB3PI.
+I similar subset of commands are available on GB3PE, and GB3PX.
