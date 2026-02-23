@@ -3,9 +3,7 @@ layout: default
 title: CRG Rally
 permalink: /events/rally/
 ---
-The 2025 Cambridgeshire Repeater Group Rally was held on Sunday 27th April, 2025 - thanks everyone!
-
-2026 details will be announced later this year.
+The 2026 Cambridgeshire Repeater Group Rally will be held on Sunday 19th April, 2026!
 
 The rally is held annually at Foxton Village Hall, Hardman Road, Foxton, Cambridge, Cambs, CB22 6RN.
 
@@ -13,34 +11,36 @@ The rally is held annually at Foxton Village Hall, Hardman Road, Foxton, Cambrid
 
 Trader setup starts at 7:30am.
 
-Opening time for visitors is 09:30am, suggested donation £4. Free entrance to Cambridgeshire Repeater Group members.
+Opening time for visitors is 09:30am, suggested donation £4, with a discount of £2 for occupants in a single vehicle to encourage car sharing. Free entrance to Cambridgeshire Repeater Group members.
 
 The RSGB join us with their ever-popular book stall, and a burger van from 08:00 or so.
 
-*Car boot spaces are available from £6.*
+*Car boot spaces are available from £7.*
 
 ### Trader fees
 
 #### In the hall
 
-We only charge you for table space. Tables cost £12 each and are approximately 1830x685mm.
+We only charge you for table space. Tables provided by us cost £12 each and are approximately 1830x685mm, or bring your own tables for £7 per table.
 
 The quantity of tables for rent is limited and will be allocated in order of bookings received. Maximum 4 tables rental per trader.
 
-If you bring your own tables, the cost will be £9 per table of equivalent size and there are no restrictions on number of tables. You *must* book indoor spaces at least 72 hours in advance as we plan the layout of the hall and tables based on your requirements.
+You *must* book indoor spaces at least 72 hours in advance as we plan the layout of the hall and tables based on your requirements.
 
-If we run out of tables to rent, we will inform you and you may cancel your booking and receive a full refund. Alternatively, you may receive £3 per table refund on the day if you bring your own tables.
+If we run out of tables to rent, we will inform you and you may cancel your booking and receive a full refund.
 
 You may place boxes of goods under your tables but, to comply with fire regulations, it is strictly prohibited to place goods in the walking areas.
 
 #### Car boot
 
-The car boot space will be on the grass field, not in front of the Hall. Car boot trading pitches cost £6 per vehicle including a 3 meter wide pitch. 
+The car boot space will be on the grass field, not in front of the Hall. Car boot trading pitches cost £7 per vehicle including a 3 meter wide pitch. 
 
-Additional space per vehicle will be charged at £4 per 3 meter space. 
+Additional space per vehicle will be charged at £3 per 3 meter space. 
 
 We appreciate you pre-booking your spaces, so that we can ensure there are sufficient pitches available for all traders.
 
 #### Booking
 
-2026 bookings will be open later in 2025.
+To book a space, please complete our [booking form](https://docs.google.com/forms/d/1MBvLhA59NHlGS5FiOJ9rIXO7zLIfS4sD2ikAEL8aKR0/). We will collect payment on the day.
+
+For more information, contact Lawrence M0LCM, 07941 972724, rally2026@cambridgerepeaters.net
