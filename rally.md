@@ -7,11 +7,13 @@ The 2026 Cambridgeshire Repeater Group Rally will be held on Sunday 19th April, 
 
 The rally is held annually at Foxton Village Hall, Hardman Road, Foxton, Cambridge, Cambs, CB22 6RN.
 
+Sorry, we are unable to allow dogs (except registered service dogs) on site due to land owner requirements.
+
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2450.1192457020493!2d0.05789691619935725!3d52.113959079739246!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNTLCsDA2JzUwLjMiTiAwwrAwMyczNi4zIkU!5e0!3m2!1sen!2suk!4v1619475969131!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 Trader setup starts at 7:30am.
 
-Opening time for visitors is 09:30am, suggested donation £4, with a discount of £2 for occupants in a single vehicle to encourage car sharing. Free entrance to Cambridgeshire Repeater Group members.
+Opening time for visitors is 09:30am, suggested donation £4, with a discount of £2 per additional occupant in a single vehicle to encourage car sharing. Free entrance to Cambridgeshire Repeater Group members.
 
 The RSGB join us with their ever-popular book stall, and a burger van from 08:00 or so.
 
