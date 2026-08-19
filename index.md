@@ -2,6 +2,7 @@
 layout: default
 title: Cambridgeshire Repeater Group
 ---
+<b>Note: Pye & Pint meet-ups moved from September 2026: see <a href="/camb-hams/">Camb-Hams</a> for new location.</b>
 
 The Cambridgeshire Repeater Group (CRG) owns and operates amateur radio analogue voice repeaters around Cambridgeshire, in the East of England.
 
