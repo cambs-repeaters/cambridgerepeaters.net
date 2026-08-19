@@ -6,7 +6,9 @@ permalink: /camb-hams/
 
 The Camb-Hams are the "social side" of the CRG. First formed in 2008, when a group of local repeater users decided to put faces to the callsigns at a local pub, the Camb-Hams have since developed into a wide-ranging group, taking part in contests, putting on special event stations, going on DXpeditions, and working with the RSGB to bring some of their events to a wider audience.
 
-We meet informally on the first Wednesday of every month at a local pub (TBC following the closure of the White Horse, Milton), from around 6pm - all are welcome to join us for something to eat and drink, as well as friendly chat, planning, and sharing of the latest acquisitions.
+We meet informally on the first Wednesday of every month at a local pub, from around 6pm - all are welcome to join us for something to eat and drink, as well as friendly chat, planning, and sharing of the latest acquisitions.
+
+Following the closure of the White Horse in Milton, in September 2026 we will be meeting at the <a href="https://maps.app.goo.gl/idzneZE9j8n1gYBE6">Plough & Fleece, Horningsea</a>.
 
 Online, we use a mailing list [over at Groups.io](https://groups.io/g/camb-hams/) and a Telegram group - reach out to one of us if you'd like to join either of these.
 
